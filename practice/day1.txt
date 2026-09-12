@@ -1,1 +1,7 @@
-
+GitHub-only practice
+Today I learned:
+1.Creating a repository
+2.Create a folder
+3.Create a file
+4.Edit a file
+5.Commit changes
